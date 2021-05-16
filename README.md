@@ -20,7 +20,7 @@
 
  COVID-19 Tracker is a React-based app that utilizes React lifecycle methods to query and display COVID-19 statistics for individual countries based on user searches. The dashboard displays total number of infected, recovered and deaths associated with COVID-19.
 
- The live app can be accessed [here](https://google-book-search-react-based.herokuapp.com/).
+ The live app can be accessed [here](https://enigmatic-plains-73182.herokuapp.com/).
 
  <p align="center">
     <img alt="Screenshot of COVID-19 Tracker 01" src="./src/images/covid-tracker-01.png">
